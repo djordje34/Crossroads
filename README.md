@@ -1,2 +1,2 @@
 # Crossroads
-Simple terminal game made in Java
+Simple dungeon terminal game made in Java
